@@ -1,0 +1,25 @@
+[0m[[0minfo[0m] [0mPackaging /Users/liam/movieReviews/target/scala-2.10/movies_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	Movies$$typecreator1$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/liam/movieReviews/target/scala-2.10/classes/Movies$$typecreator1$1.class[0m
+[0m[[0mdebug[0m] [0m	Movies$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/liam/movieReviews/target/scala-2.10/classes/Movies$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	Movies$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/liam/movieReviews/target/scala-2.10/classes/Movies$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	Review.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/liam/movieReviews/target/scala-2.10/classes/Review.class[0m
+[0m[[0mdebug[0m] [0m	Movies$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/liam/movieReviews/target/scala-2.10/classes/Movies$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	Movies.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/liam/movieReviews/target/scala-2.10/classes/Movies.class[0m
+[0m[[0mdebug[0m] [0m	Movies$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/liam/movieReviews/target/scala-2.10/classes/Movies$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	Movies$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/liam/movieReviews/target/scala-2.10/classes/Movies$.class[0m
+[0m[[0mdebug[0m] [0m	Movies$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/liam/movieReviews/target/scala-2.10/classes/Movies$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	Movies$$anonfun$3$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/liam/movieReviews/target/scala-2.10/classes/Movies$$anonfun$3$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	Review$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/liam/movieReviews/target/scala-2.10/classes/Review$.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
